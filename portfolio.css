@@ -1,0 +1,22 @@
+html {
+    background-color: #26243c;
+    color: white;
+    font-family: system-ui, sans-serif;
+    font-weight: 200;
+    margin: 0;
+}
+
+#intro {
+    margin: auto;
+    position: relative;
+    top: 100px;
+    left: -8px;
+    display: grid;
+    background-color: #ab2121;
+}
+
+img {
+    justify-content: end;
+    height: 118.88px;
+    width: 118.88px;
+}
